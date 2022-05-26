@@ -8,6 +8,7 @@
  
  
  ##Program:
+ ```c#
  using System;
 class example
 {
@@ -47,7 +48,7 @@ class example
 }
 
 
- 
+ ```
  ##Output:
  ![ss1](https://user-images.githubusercontent.com/75235150/170472060-a8270fe3-ec46-446c-990c-52981842cf3e.PNG)
 
