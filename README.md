@@ -1,15 +1,29 @@
 # Operator-Overloading
 
 ## Aim:
- To write a C# program to find the volume of a box using operator overloading
+To write a C# program to find the volume of a box using operator overloading
  
- ##Algorithm:
+## Algorithm:
+
+Step1:
+Create a class for operator overloading.
+
+Step2:
+Get inputs for length,breadthandheight of the box from the user and then calculate the volume in overloading function.
+
+Step3:
+After that return a new object for the calculated volume.
+
+Step4:
+Then create a new object to store the return object.
+
+Step5:
+After that print the calculated volume.
  
  
- 
- ##Program:
- ```c#
- using System;
+## Program:
+ ```python
+using System;
 class example
 {
     public int length, breadth, hieght, volume;
@@ -49,8 +63,9 @@ class example
 
 
  ```
- ##Output:
+## Output:
  ![ss1](https://user-images.githubusercontent.com/75235150/170472060-a8270fe3-ec46-446c-990c-52981842cf3e.PNG)
 
  
- ##Result:
+## Result:
+C# program to find the volume of a box using operator overloading is implemented successfully.
